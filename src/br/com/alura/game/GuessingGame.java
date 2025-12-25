@@ -1,4 +1,4 @@
-package game;
+package br.com.alura.game;
 
 import java.util.Random;
 import java.util.Scanner;
